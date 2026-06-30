@@ -1,4 +1,4 @@
-# 🛒 Migros Store Locations
+# 🛒 Migros Store Location Intelligence
 
 An interactive **Location Intelligence** and **Business Intelligence** application developed to identify the most promising municipality for opening a new **Migros** store in the Canton of Lausanne, Switzerland.
 
@@ -176,19 +176,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Dashboard Preview
-
-*Screenshots of the application can be found below.*
-
-Suggested images:
-
-* Executive dashboard
-* Interactive choropleth map
-* Opportunity score visualization
-* Champion municipality recommendation
-* Adjustable weighting interface
-
----
 
 ## 💼 Business Value
 
@@ -198,19 +185,6 @@ Rather than producing a fixed answer, the application allows decision-makers to 
 
 ---
 
-## 🔮 Future Improvements
-
-Potential extensions include:
-
-* Drive-time and accessibility analysis
-* Public transport accessibility
-* Consumer mobility patterns
-* Integration of additional competitors
-* Machine learning-based demand forecasting
-* Scenario simulation for future demographic changes
-* Automated data updates via APIs
-
----
 
 ## ⚠️ Disclaimer
 

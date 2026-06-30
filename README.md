@@ -146,7 +146,7 @@ migros-store-locations/
 ├── app.py
 ├── data/
 ├── geojson/
-├── assets/
+├── notebooks/
 ├── requirements.txt
 └── README.md
 ```
